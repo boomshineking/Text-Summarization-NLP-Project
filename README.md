@@ -92,7 +92,7 @@ Email: r1053506@gmail.com
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
 	
-	#optinal
+	#optinal if needed
 
 	sudo apt-get update -y
 
