@@ -15,11 +15,6 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
@@ -49,9 +44,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: Richard Stephenraj
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: r1053506@gmail.com
 
 ```
 
@@ -90,8 +85,7 @@ Email: krishnaik06@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
-
+    - Save the URI: 195039020286.dkr.ecr.eu-west-1.amazonaws.com/text-s
 	
 ## 4. Create EC2 machine (Ubuntu) 
 
@@ -126,6 +120,7 @@ Email: krishnaik06@gmail.com
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  195039020286.dkr.ecr.eu-west-1.amazonaws.com/text-s
 
     ECR_REPOSITORY_NAME = simple-app
+
