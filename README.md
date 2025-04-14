@@ -1,3 +1,4 @@
+[![workflow](https://github.com/boomshineking/Text-Summarization-NLP-Project-main/actions/workflows/main.yaml/badge.svg)](https://github.com/boomshineking/Text-Summarization-NLP-Project-main/actions/workflows/main.yaml)
 # End to end Text-Summarizer-Project
 
 ## Workflows
