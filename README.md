@@ -125,4 +125,6 @@ Email: r1053506@gmail.com
     AWS_ECR_LOGIN_URI = demo>>  195039020286.dkr.ecr.eu-west-1.amazonaws.com/text-s
 
     ECR_REPOSITORY_NAME = simple-app
+# SCREENSHOT OF CI/CD 
+<img width="1872" height="781" alt="image" src="https://github.com/user-attachments/assets/f22c4802-1506-420d-9132-d943314860bc" />
 
