@@ -127,4 +127,7 @@ Email: r1053506@gmail.com
     ECR_REPOSITORY_NAME = simple-app
 # SCREENSHOT OF CI/CD 
 <img width="1872" height="781" alt="image" src="https://github.com/user-attachments/assets/f22c4802-1506-420d-9132-d943314860bc" />
+<img width="1885" height="707" alt="Screenshot 2025-08-22 124850" src="https://github.com/user-attachments/assets/b6f31c95-cb96-4929-b0d1-8ae35c486f03" />
+
+<img width="1266" height="693" alt="fast2" src="https://github.com/user-attachments/assets/5895fe38-06cc-4954-9c8d-148dbdbd7b3c" />
 
